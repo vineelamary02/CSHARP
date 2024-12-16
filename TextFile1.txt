@@ -1,0 +1,12 @@
+using System;
+class JumpStatments
+{
+static void Main()
+{
+goto xxx;
+Console.WriteLine("Hello world");
+xxx:
+Console.WriteLine("Goto called");
+
+	}
+}
